@@ -4,15 +4,15 @@
 ## 💻 Preview
 > Start:
 >
-> ![img_1](https://cdn.discordapp.com/attachments/917879741397204992/1073973941435113515/image.png)
+> ![img_1](https://cdn.discordapp.com/attachments/828752478614716437/1073979296839901214/start.png)
 >
 > Win:
 >
-> ![img_2](https://media.discordapp.net/attachments/917879741397204992/1073976811962257449/image.png)
+> ![img_2](https://cdn.discordapp.com/attachments/828752478614716437/1073979031378215034/player_won.png)
 >
 > Draw:
 >
-> ![img_2](https://cdn.discordapp.com/attachments/917879741397204992/1073976695931027516/image.png)
+> ![img_3](https://cdn.discordapp.com/attachments/828752478614716437/1073979202136702986/draw.png)
 
 
 
