@@ -19,4 +19,4 @@
 ## ⌨️ How to run the easiesy way
 > 1. Copy the `main.c` file
 > 2. Go to [OnlineGDB](https://www.onlinegdb.com/) and select C language
-> 3. Past the code and hit *Run* button
+> 3. Past the code and hit **Run** button
