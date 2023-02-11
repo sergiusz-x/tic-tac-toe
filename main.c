@@ -11,7 +11,6 @@ char if_end(char board[][3]);
 
 int main() {
     char board[3][3] = {{' ', ' ', ' '}, {' ', ' ', ' '}, {' ', ' ', ' '}};
-    // display_board(board);
     //
     int row, column;
     char player = 'X';
@@ -22,8 +21,10 @@ int main() {
         ask_for_position(&pos, board, player);
         board[pos.x-1][pos.y-1] = player;
         //
-        if(if_end(board) != ' ') {
-            printf("Koniec");
+        char check_end = if_end(board);
+        if(check_end != ' ') {
+            display_board(board);
+            printf("\nPlayer %c won!\n", check_end);
             return 0;
         }
         //
@@ -33,6 +34,9 @@ int main() {
             player = 'X';
         }
     }
+    //
+    display_board(board);
+    printf("\nDraw!\n");
     //
     return 0;
 }
