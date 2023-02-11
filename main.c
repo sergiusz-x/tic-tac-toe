@@ -6,6 +6,7 @@ int if_full(char board[][3]);
 int main() {
     char board[3][3] = {{' ', ' ', ' '}, {' ', ' ', ' '}, {' ', ' ', ' '}};
     display_board(board);
+    printf("%d", if_full(board));
     return 0;
 }
 
@@ -23,5 +24,14 @@ void display_board(char board[][3]) {
 }
 
 int if_full(char board[][3]) {
-    
+    int counter = 0, i, j;
+    for(i = 0; i < 3; i++) {
+        for(j = 0; j < 3; j++) {
+            if(board[i][j] != ' ') {
+                counter++;
+            }
+        }
+    }
+    //
+    return counter == 9;
 }
