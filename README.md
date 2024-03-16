@@ -4,15 +4,15 @@
 ## 💻 Preview
 > Start:
 >
-> ![img_1](https://cdn.discordapp.com/attachments/828752478614716437/1073979296839901214/start.png)
+> ![img_1](/readme/start.png)
 >
 > Win:
 >
-> ![img_2](https://cdn.discordapp.com/attachments/828752478614716437/1073979031378215034/player_won.png)
+> ![img_2](/readme/player_won.png)
 >
 > Draw:
 >
-> ![img_3](https://cdn.discordapp.com/attachments/828752478614716437/1073979202136702986/draw.png)
+> ![img_3](/readme/draw.png)
 
 
 
